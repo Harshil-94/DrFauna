@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Jeev aashraya",
+        "add": "Unnamed Road, Vikaskhand 5, Gwari Village, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+        "phone": "none",
+        "coords": {
+            "lat": 26.7705,
+            "lng": 80.8580
+        }
+    },
+    {
+        "name": "Jeev Basera SPCA Hospital, New Hydrabad",
+        "add": "214/2/12, New Hyderabad, Hasanganj, Lucknow, Uttar Pradesh 226007",
+        "phone": "none",
+        "coords": {
+            "lat": 26.86197,
+            "lng": 80.98661
+        }
+    },
+    {
+        "name": "Royal Pet Clinic",
+        "add": "L-34,35 Uday Tower,Vijyant Khand,Gomti Nagar, Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010, India",
+        "phone": "93698 80514",
+        "coords": {
+            "lat": 26.8658127,
+            "lng": 81.0241303
+        }
+    }
+]

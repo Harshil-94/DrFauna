@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Animal Matter To Me NGO",
+        "add":"Plot No.13,14,15, Chikuwadi Lane, Lane, Malad - Marve Rd, opp. Jari Mari Temple, Marve, Mumbai, Maharashtra 400095",
+        "phone":"099677 95660",
+        "coords":{
+            "lat":19.192028,
+            "lng":72.805373
+        }
+    },
+    {
+        "name":"IDA India - Deonar",
+        "add":"Near Deonar Colony Bainganwadi, Deonar, Mumbai, Maharashtra 400043",
+        "phone":"093200 56581",
+        "coords":{
+            "lat":19.056287,
+            "lng":72.925869
+        }
+    },
+    {
+        "name":"Utkarsh Star Mitra Mandal N.G.O",
+        "add":" B-31, 34, 35 and 36, Minerva Industrial Estate, Purushottam Kheraj Rd, Mulund West, Mumbai, Maharashtra 400080",
+        "phone":"022 2567 6000",
+        "coords":{
+            "lat":19.167181,
+            "lng":72.944340
+        }
+    }
+
+
+]

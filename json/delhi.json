@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Friendicoes",
+        "add": "No 271 & 273, Jangpura, Block M, Jungpura Extension, Defence Colony, New Delhi, Delhi 110024",
+        "phone": "011 2432 0707",
+        "coords": {
+            "lat": 28.58100521863528,
+            "lng": 77.23894733993178
+        }
+    },
+    {
+        "name": "Jeevashram Foundation",
+        "add": "near Shiv Temple, Golden Gate, Rajokri, New Delhi, Delhi 110038",
+        "phone": "011 2412 4114",
+        "coords": {
+            "lat": 28.5189202,
+            "lng": 77.1063282
+        }
+    },
+    {
+        "name": "Sanjay Gandhi Animal Care Centre",
+        "add": "Shivaji College Rd, Shivaji Enclave, Raja Garden, New Delhi, Delhi 110027",
+        "phone": "011 2544 8062",
+        "coords": {
+            "lat": 28.657482,
+            "lng": 77.122803
+        }
+    },
+    {
+        "name": "Circle Of Animal Lovers",
+        "add": "E-67, DDA Flats, Saket, New Delhi, Delhi 110017",
+        "phone": "011 4057 2892",
+        "coords": {
+            "lat": 28.5221586803,
+            "lng": 77.2297231892
+        }
+    }
+]

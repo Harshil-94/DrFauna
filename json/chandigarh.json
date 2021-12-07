@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Society For The Prevention Of Cruelty To Animals, Chandigarh",
+        "add": " Motor Market, Near, Sector 38 West, Chandigarh 160014",
+        "phone": "0172 269 6450",
+        "coords": {
+            "lat": 30.753362,
+            "lng": 76.746883
+        }
+    },
+    {
+        "name": "Petvet24 Veterinary Clinic",
+        "add": "SCO - 140, back side entry, in front of Police Station, Sector 24D, Sector 24, Chandigarh, 160024",
+        "phone": "070838 65773",
+        "coords": {
+            "lat": 30.74594765092657,
+            "lng": 76.75992288890671
+        }
+    }
+]

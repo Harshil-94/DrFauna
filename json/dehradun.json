@@ -1,0 +1,20 @@
+[
+    {
+        "name": "People For Animal",
+        "add": "d, 4, Rajpur Rd, Kandholi, Chironwali, Dehradun, Uttarakhand 248001",
+        "phone": "none",
+        "coords": {
+            "lat": 30.339705,
+            "lng": 78.05975
+        }
+    },
+    {
+        "name": "Doon Animal Welfare Office",
+        "add": "72-A, Chander Rd, MDDA Colony, Dalanwala, Dehradun, Uttarakhand 248001",
+        "phone": "079002 73333",
+        "coords": {
+            "lat": 30.315974695511898,
+            "lng": 78.05691103989713
+        }
+    }
+]

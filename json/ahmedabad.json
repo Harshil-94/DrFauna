@@ -1,0 +1,31 @@
+[
+    {
+        "name":"GOAL Foundation",
+        "add":"opp. Calico Mills, Calico Mills, Behrampura, Ahmedabad, Gujarat 380022",
+        "phone":"099241 12200",
+        "coords":{
+            "lat":22.996323,
+            "lng":72.574777
+        }
+    },
+    {
+        "name":"Panjrapol Sanstha Ahmedabad",
+        "add":"Sahajanand College, Polytechnic Rd, Panjara Pol, Ambawadi, Ahmedabad, Gujarat 380015",
+        "phone":"079 2630 1052",
+        "coords":{
+            "lat":23.026482,
+            "lng":72.545360
+        }
+    },
+    {
+        "name":"Jivdaya Charitable Trust",
+        "add":"Panjrapol Road Ahmedabad Panjrapol Campus Panjrapol, Ambawadi, Ahmedabad, Gujarat 380015",
+        "phone":"099244 18184",
+        "coords":{
+            "lat":23.026008,
+            "lng":72.545134
+        }
+    }
+
+
+]

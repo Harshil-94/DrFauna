@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Prayas Team Environment Charitable Trust",
+        "add":"C-110, Commercial Complex, Udhna Udyognagar Sangh, Rd No 10, opposite Bank of Baroda Central, Udhna, Surat, Gujarat 394210",
+        "phone":"+919825119081",
+        "coords":{
+            "lat":21.169545,
+            "lng":72.842520
+        }
+    },
+    {
+        "name":"Surat Panjarapole Trust",
+        "add":"Opposite Children Traffic Training Park, Ghod Dod Rd, Surat, Gujarat 395007",
+        "phone":"0261 265 4394",
+        "coords":{
+            "lat":21.176609,
+            "lng":72.814128
+        }
+    },
+    {
+        "name":"Nature Club Surat Bird Rescue Centre",
+        "add":"Athwa Gate, Surat, Gujarat 395008",
+        "phone":"098254 80908",
+        "coords":{
+            "lat":21.182291,
+            "lng":72.814021
+        }
+    }
+
+
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "name":"People for Animal (PFA)",
+        "add":"Shantinagar Rd, Maimollem, Mormugao, Goa 403802",
+        "phone":"0832 253 2514",
+        "coords":{
+            "lat":15.388243,
+            "lng":73.829212
+        }
+    },
+    {
+        "name":"Goa Animal Welfare Trust",
+        "add":"Raia, B/H Government Hospital, Raia, Goa, 403720",
+        "phone":"0832 275 9849",
+        "coords":{
+            "lat":15.294700,
+            "lng":73.982085
+        }
+    },
+    {
+        "name":"Mascot Pet Lifestyle Store, Clinic, Grooming and Diagnostic Services",
+        "add":" Ferreira Garden, Gogol, Margao, Goa 403601",
+        "phone":"075076 47687",
+        "coords":{
+            "lat":15.288532,
+            "lng":73.981802
+        }
+    }
+
+
+]

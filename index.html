@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DrFauna</title>
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="navbar">
+            <div class="left-nav">
+                <img src="./images/dog.png" alt="" class="image-nav">
+            </div>
+            <div class="right-nav">
+                <ul class="nav-list">
+                    <li class="nav-list-item"><a href="#">Home</a>
+                        <div class="slider"></div>
+                    </li>
+                    <li class="nav-list-item"><a href="#mainBar1">Dashboard</a>
+                        <div class="slider"></div>
+                    </li>
+                    <li class="nav-list-item"><a href="#mainBar2">About</a>
+                        <div class="slider"></div>
+                    </li>
+                    <li class="nav-list-item"><a href="#contact">Contact Us</a>
+                        <div class="slider"></div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="main-page">
+            <div class="main-left">
+                <h1>Badges Earned</h1>
+                <div class="coin">
+                    0
+                </div>
+                <div class="main-left-bottom">
+                    <img src="./images/Untitled-1.png" alt="" width="25%">
+                </div>
+            </div>
+            <div class="main-right">
+                <h1>DrFauna</h1>
+                <p>To bring forth a brand new way to solve the problem of stray animals who have been neglected.
+                    To connect volunteers and NGOs towards their path on coming together for their services.
+                    A streamlined system built to provide information and data about the needs of stray animals and how
+                    to take care of
+                    them.
+                    To end the struggles of abandoned animals who are left alone with no one to take to take them in.
+                </p>
+                <div class="main-right-bottom">
+                    <img src="./images/Untitled-2.png" alt="" style="height: 100px;">
+                </div>
+            </div>
+        </div>
+        <div class="main-bar" id="mainBar1"></div>
+        <div class="dashboard">
+            <div class="updash">
+                <h2>Select your City</h2>
+                <select name="city" id="city">
+                    <option value="">Select your City</option>
+                    <option value="Chandigarh">chandigarh</option>
+                    <option value="Dehradun">dehradun</option>
+                    <option value="Delhi">delhi</option>
+                    <option value="Jaipur">jaipur</option>
+                    <option value="Lucknow">lucknow</option>
+                    <option value="ahmedabad">ahmedabad</option>
+                    <option value="goa">goa</option>
+                    <option value="mumbai">mumbai</option>
+                    <option value="pune">pune</option>
+                    <option value="surat">surat</option>
+                </select>
+                <button id="selectBtn">Select</button>
+            </div>
+            <div class="lowdash">
+                <div class="left-dash">
+                    <h2>MAP</h2>
+                </div>
+                <div class="right-dash">
+                    <h1 style="color: white;">No City selected</h1>
+                </div>
+            </div>
+        </div>
+        <div class="main-bar1" id="mainBar2"></div>
+        <h1>About</h1>
+        <div class="about">
+            <div class="left-abt">
+                <p>Let’s say a man has found a stray pregnant dog in a road that is struggling for food and shelter.
+                    This man can now go on
+                    DrFauna and get all the necessary information as well as get in contact with organizations that are
+                    able to help the
+                    dog. Location, species and other data is important for this. After contact is made, the organization
+                    can come and take
+                    in the dog if medical attention is required else it will be put up for adoption. And all the
+                    organizations are connected
+                    through the chatbot. This is the main objective and goal of our organization</p>
+            </div>
+            <div class="right-abt">
+                <img src="./images/undraw_friends_r511.png" alt="">
+            </div>
+        </div>
+        <div class="contact" id="contact">
+            <h1>Contact Us</h1>
+            <input type="text" placeholder="Enter your name" id="contName">
+            <input type="email" placeholder="Enter your E-mail" id="contEmail">
+            <input type="number" placeholder="Enter your phone number" id="contNumber">
+            <textarea name="message" id="contMessage" cols="30" rows="10" placeholder="Enter the message"></textarea>
+            <button class="submit" id="contSubmitBtn">Submit</button>
+        </div>
+        <div class="footer">
+            <h2>Made By Name Error Team</h2>
+            <div class="foo">
+                <a href="#">Back to Top</a>
+                <div class="sliderf"></div>
+            </div>
+        </div>
+        <div class="logPage">
+            <img src="./images/close.png" alt="" width="40px" id="closeBtn">
+            <img src="./images/dog.png" alt="" id="log-icon">
+            <div class="right-log">
+                <h2>Sign Up</h2>
+                <p>Sign up to get access to our chatbot feature</p>
+                <input type="text" placeholder="Enter the name of your ngo" id="signUpname">
+                <input type="email" placeholder="Enter your E-mail" id="signUpemail">
+                <input type="number" placeholder="Enter your phone number" id="signUpnumber">
+                <input type="text" placeholder="Enter your time of aviability" id="signUptime">
+                <input type="text" placeholder="Enter your address" id="signUpadd">
+                <button class="submit" id="signUpBtn">Submit</button>
+            </div>
+        </div>
+        <div class="login">
+            <h2>SignUp</h2>
+        </div>
+    </div>
+    <div class="copyfirm">
+        <h5>Text Copied Successfully!!!</h5>
+    </div>
+    <div class="formVal">
+        <h1>Form Submitted Successfully</h1>
+        <p>You will recieve a confirmatory E-mail</p>
+    </div>
+    <script async
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBxg1K1ETYD8ZnktcOXjuri28ZRPnslyI&callback=initMap">
+        </script>
+    <script type="text/javascript">
+        (function (d, m) {
+            var kommunicateSettings =
+                { "appId": "f0bb4007ae572dd0545c5859cdae6abb", "popupWidget": true, "automaticChatOpenOnNavigation": true };
+            var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+            s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+            var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
+            window.kommunicate = m; m._globals = kommunicateSettings;
+        })(document, window.kommunicate || {});
+    /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
+    </script>
+    <script src="./javaScript/style.js"></script>
+    <script src="./javaScript/main.js"></script>
+    <script src="./javaScript/fetch.js"></script>
+</body>
+
+</html>

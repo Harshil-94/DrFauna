@@ -1,0 +1,31 @@
+[
+    {
+        "name":"karma foundation",
+        "add":"Jacinta Villa, Ward No. 8, Aundh, Pune, Maharashtra 411007",
+        "phone":"083909 44337",
+        "coords":{
+            "lat":18.563486,
+            "lng":73.803442
+        }
+    },
+    {
+        "name":"RESQ Charitable Trust",
+        "add":"Plot No. 3906, Paud, 115, Mulshi Rd, Hill Town, Chandani Chowk, Bavdhan, Pune, Maharashtra 411022",
+        "phone":"098909 99111",
+        "coords":{
+            "lat":18.495686,
+            "lng":73.765649
+        }
+    },
+    {
+        "name":"Paw's For A Cause Charitable Trust",
+        "add":"Manorama Apt, 962, Honaji Bala Path, Budhwar Peth, Pune, Maharashtra 411002",
+        "phone":"097657 23123",
+        "coords":{
+            "lat":18.515098,
+            "lng":73.858604
+        }
+    }
+
+
+]

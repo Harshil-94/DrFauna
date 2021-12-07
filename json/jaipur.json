@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Pet Vet Go : Pet Dog Clinic in Jaipur",
+        "add": "79/147, Aravali Marg, Mansarovar Sector 7, Shipra Path, Barh Devariya, Mansarova, Jaipur, Rajasthan 302020",
+        "phone": "097839 11111",
+        "coords": {
+            "lat": 26.916603,
+            "lng": 75.78055
+        }
+    },
+    {
+        "name": "Shree Ram Go Shalla And Animal Hospital",
+        "add": "Jaipur, Rajasthan 302002",
+        "phone": "none",
+        "coords": {
+            "lat": 26.9386,
+            "lng": 75.8519
+        }
+    },
+    {
+        "name": "Jaipur Pet Hospital",
+        "add": "A- 297, Behind J.K. Hospital, Kalwar Rd, Kardhani Govindpura, Jhotwara, Jaipur, Rajasthan 302012",
+        "phone": "082392 44888",
+        "coords": {
+            "lat": 26.9509,
+            "lng": 75.7142
+        }
+    }
+]
